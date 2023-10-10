@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="uft-8">
+  <link rel="stylesheet" href="styles.css" />
+  <title>Ichigo Momomiya Tribute Page</title>
+</head>
+<body>
+  <main id="main">
+    <h1 id="title">Ichigo Momomiya</h1>
+    <p id="subtitle">Best magical girl est. 2001</p>
+    <figure id="img-div">
+      <img id="image" src="https://static.wikia.nocookie.net/tokyomewmewpower/images/b/b1/Ichigo2022.png" alt="Anime girl with cat ears and a pink dress.">
+    <figcaption id="img-caption">Mew Ichigo in her new magical girl outfit.</figcaption> 
+    </figure>
+    <div id="tribute-info">
+      <h2 id="facts-title">Facts about Mew Ichigo:</h2>
+      <ul id="facts-list">
+        <li>Ichigo Momomiya appears in the manga and anime series Tokyo Mew Mew and Tokyo Mew Mew New. She is the main character and heroine of the story.</li>
+        <li>Her DNA was merged with the DNA of an Iriomote cat, which gave her superpowers.</li>
+        <li>Ichigo is the leader of the Mew Mews, a group of superpowered girls who fight against aliens.</li>
+        <li>She is in love with a boy named Masaya Aoyama.</li>
+        <li>Her favorite foods are waffles with maple syrup, fish, and strawberries.</li>
+      </ul>
+    </div>
+    <div id="link-div">
+      <a id="tribute-link" href="https://tokyomewmewpower.fandom.com/wiki/Ichigo_Momomiya" target=_blank>Read more information about Mew Ichigo</a> 
+    </div>
+  </main>
+</body>
